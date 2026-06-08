@@ -28,7 +28,25 @@
 
 Core: prompt injection protection, runtime safety gates, scope validation, emotion journals + identity for all 95 agents.
 
-[📚 Docs](https://phamlongh230-lgtm.github.io/yamtam-engine) · [🤖 GitHub App](https://github.com/apps/yamtam-engine) · [🌐 Site](https://yamtam-engine-production.up.railway.app)
+---
+
+## Live
+
+| Project | URL | Description |
+|---------|-----|-------------|
+| 🤖 Yana Web | [yamtam-engine-production.up.railway.app](https://yamtam-engine-production.up.railway.app) | AI chat UI · skill routing · multi-provider |
+| 📚 YAMTAM Docs | [phamlongh230-lgtm.github.io/yamtam-engine](https://phamlongh230-lgtm.github.io/yamtam-engine/) | Full documentation · marketplace · install guide |
+| 🧩 CodexMate | [sakurabytecore.github.io/codexmate](https://sakurabytecore.github.io/codexmate/) | Unified dashboard for AI coding tools |
+| 🌐 Portfolio | [phamlongh230-lgtm.github.io/itro](https://phamlongh230-lgtm.github.io/itro/) | Personal intro page |
+| 🤖 GitHub App | [github.com/apps/yamtam-engine](https://github.com/apps/yamtam-engine) | Install YAMTAM ENGINE on any repo |
+
+---
+
+## Packages
+
+[![npm](https://img.shields.io/npm/v/yamtam-engine?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/yamtam-engine)
+[![crates.io](https://img.shields.io/crates/v/yamtam-rt?style=flat-square&logo=rust&color=ce422b)](https://crates.io/crates/yamtam-rt)
+[![PyPI](https://img.shields.io/pypi/v/yamtam-engine?style=flat-square&logo=pypi&color=3775a9)](https://pypi.org/project/yamtam-engine/)
 
 ---
 
