@@ -1,7 +1,7 @@
 <h1 align="center">Vũ Văn Tâm (Yana) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=750&lines=Creator+of+YAMTAM+ENGINE;3%2C498+skills+%C2%B7+95+agents;Agent+OS+%C2%B7+Runtime+Safety+%C2%B7+Orchestration;Routing+%C2%B7+Safety+%C2%B7+Context" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=750&lines=Creator+of+Yana+AI;3%2C498+skills+%C2%B7+95+agents;Agent+OS+%C2%B7+Runtime+Safety+%C2%B7+Orchestration;Routing+%C2%B7+Safety+%C2%B7+Context" />
 </p>
 
 ---
@@ -9,13 +9,13 @@
 ## About
 
 - 🇻🇳 Vietnamese · 17 y/o · 📍 South Korea
-- 🤖 Building **[YAMTAM ENGINE](https://github.com/phamlongh230-lgtm/yamtam-engine)** — Personal Agent OS for AI coding agents
+- 🤖 Building **[Yana AI](https://github.com/phamlongh230-lgtm/Yana-AI)** — Personal Agent OS for AI coding agents
 - 🦀 Rust for performance-critical systems
 - 🎓 Also: **JNMT** (620k lines · 55 deployments) · **Yana Web** · **CodexMate**
 
 ---
 
-## YAMTAM ENGINE
+## Yana AI
 
 > _Personal Agent OS — Routing · Safety · Orchestration · Context_
 
@@ -34,19 +34,19 @@ Core: prompt injection protection, runtime safety gates, scope validation, emoti
 
 | Project | URL | Description |
 |---------|-----|-------------|
-| 🤖 Yana Web | [yamtam-engine-production.up.railway.app](https://yamtam-engine-production.up.railway.app) | AI chat UI · skill routing · multi-provider |
-| 📚 YAMTAM Docs | [phamlongh230-lgtm.github.io/yamtam-engine](https://phamlongh230-lgtm.github.io/yamtam-engine/) | Full documentation · marketplace · install guide |
+| 🤖 Yana Web | [yanai-production.up.railway.app](https://yanai-production.up.railway.app) | AI chat UI · skill routing · multi-provider |
+| 📚 Yana AI Docs | [phamlongh230-lgtm.github.io/Yana-AI](https://phamlongh230-lgtm.github.io/Yana-AI/) | Full documentation · marketplace · install guide |
 | 🧩 CodexMate | [sakurabytecore.github.io/codexmate](https://sakurabytecore.github.io/codexmate/) | Unified dashboard for AI coding tools |
 | 🌐 Portfolio | [phamlongh230-lgtm.github.io/itro](https://phamlongh230-lgtm.github.io/itro/) | Personal intro page |
-| 🤖 GitHub App | [github.com/apps/yamtam-engine](https://github.com/apps/yamtam-engine) | Install YAMTAM ENGINE on any repo |
+| 🤖 GitHub App | [github.com/apps/yana-ai](https://github.com/apps/yana-ai) | Install Yana AI on any repo |
 
 ---
 
 ## Packages
 
-[![npm](https://img.shields.io/npm/v/yamtam-engine?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/yamtam-engine)
-[![crates.io](https://img.shields.io/crates/v/yamtam-rt?style=flat-square&logo=rust&color=ce422b)](https://crates.io/crates/yamtam-rt)
-[![PyPI](https://img.shields.io/pypi/v/yamtam-engine?style=flat-square&logo=pypi&color=3775a9)](https://pypi.org/project/yamtam-engine/)
+[![npm](https://img.shields.io/npm/v/yana-ai?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/yana-ai)
+[![crates.io](https://img.shields.io/crates/v/yana-rt?style=flat-square&logo=rust&color=ce422b)](https://crates.io/crates/yana-rt)
+[![PyPI](https://img.shields.io/pypi/v/yana-ai?style=flat-square&logo=pypi&color=3775a9)](https://pypi.org/project/yana-ai/)
 
 ---
 
